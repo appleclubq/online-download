@@ -10,19 +10,19 @@
                 <dict>
                     <key>kind</key>
                     <software-package</key>
-                    <url>https://raw.githubusercontent.com/ИМЯ_ПОЛЬЗОВАТЕЛЯ/ИМЯ_РЕПОЗИТОРИЯ/main/app.ipa</url>
+                    <url>https://github.com/appleclubq/online-download/releases/download/apps/Holder.1.2.ipa</url>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.example.myapp</string>
+                <string>com.aholder.app</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
                 <software</key>
                 <key>title</key>
-                <string>Название Вашего Приложения</string>
+                <string>Альфа Банк</string>
             </dict>
         </dict>
     </array>

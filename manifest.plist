@@ -10,7 +10,7 @@
                 <dict>
                     <key>kind</key>
                     <string>software-package</string>
-                    <url>https://github.com/appleclubq/online-download/releases/download/apps/Holder.1.2.ipa</url>
+                    <url>https://cdn.statically.io/gh/appleclubq/online-download@download/apps/Holder.1.2.ipa</url>
                 </dict>
             </array>
             <key>metadata</key>

@@ -9,7 +9,7 @@
             <array>
                 <dict>
                     <key>kind</key>
-                    <software-package</key>
+                    <string>software-package</string>
                     <url>https://github.com/appleclubq/online-download/releases/download/apps/Holder.1.2.ipa</url>
                 </dict>
             </array>
@@ -20,7 +20,7 @@
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
-                <software</key>
+                <string>software</string>
                 <key>title</key>
                 <string>Альфа Банк</string>
             </dict>
